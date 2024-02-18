@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello Everyone 👋
+
+**I am Mr. Sarvesh D. Gaonkadkar / Sarvesh-DG-6**
+
+- I am currently pursuing my CSE Graduation.
 
 <!--
 **Sarvesh-DG-6/Sarvesh-DG-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
