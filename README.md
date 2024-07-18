@@ -22,9 +22,6 @@ Hello Everyone 👋
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sarvesh-DG-6&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Sarvesh-DG-6&icon=0&color=11)](https://visitcount.itsvg.in)
 
