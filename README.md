@@ -1,7 +1,7 @@
 
 Hello Everyone 👋
 
-**I am Mr. Sarvesh D. Gaonkadkar / Sarvesh-DG-6** (currently a CSE Graduate Student)
+**I am Mr. Sarvesh D. Gaonkadkar / Sarvesh-DG-6** (a recently CSE Graduate, Hons. Cybersec)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sarvesh_dg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/https://www.linkedin.com/in/sarvesh-dg-6140ab22b) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/26014595/sarvesh-dg) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Sarvesh-DG-6) 
