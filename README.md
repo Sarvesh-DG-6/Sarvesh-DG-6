@@ -21,8 +21,8 @@ Hello Everyone 👋
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sarvesh-DG-6&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Sarvesh-DG-6&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)-->
 
-[![](https://visitcount.itsvg.in/api?id=Sarvesh-DG-6&icon=0&color=11)](https://visitcount.itsvg.in)-->
+<!--[![](https://visitcount.itsvg.in/api?id=Sarvesh-DG-6&icon=0&color=11)](https://visitcount.itsvg.in)-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
